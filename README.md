@@ -6,7 +6,7 @@
 
 <h1>Execution</h1>
 <p>
-The submission is a WebStorm project that can be run directly from the IDE.
+This is a WebStorm project that can be run directly from the IDE.
 </p>
 <h1>Assumptions</h1>
 <p>
